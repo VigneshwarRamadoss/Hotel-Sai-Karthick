@@ -1,46 +1,26 @@
-# Sai Karthik Premium
+# Hotel Sai Karthik — Premium South Indian Vegetarian Website
 
-Build a production-ready, premium B2C website for “Hotel Sai Karthik,” an award-winning pure vegetarian South Indian restaurant.
+A production-ready, high-performance website for **Hotel Sai Karthik**, an award-winning pure vegetarian South Indian restaurant in Pattukkottai and Trichy, Tamil Nadu.
 
-Use the 9 uploaded Markdown files as the single source of truth for product requirements, technology, website flow, menu, UI/UX, typography, animations, parallax effects, and implementation.
+## Features
 
-Create a responsive, mobile-first website with:
+- **Heritage Visual Identity:** Palette featuring warm ivory, turmeric gold, leaf green, and deep navy/maroon.
+- **Full Page Architecture:** Home, Menu (Time-aware Breakfast/Lunch/Dinner), Our Story, Gallery, and Branch Locations.
+- **Signature Motion & Micro-Interactions:** Parallax hero storytelling, custom SVG Kolam line drawing animations, and reduced-motion fallback support.
+- **High Legibility Typography:** Google Fonts pairing using *Prata* (display serif), *Lato* (sans-serif), and *Noto Sans/Serif Tamil*.
+- **Performant & Accessible:** Built with Tailwind CSS v4, React 19, and TanStack Router with WCAG AA standards and SEO structured schema data.
 
-- Premium South Indian visual identity using warm ivory, banana-leaf green, turmeric gold, and deep maroon
+## Local Development
 
-- Home, Menu, About, Gallery, Contact/Location, Reservation, and Order Online experiences
-
-- Breakfast, Lunch, and Evening Tiffin menus with filtering, search, item details, dietary labels, availability, and prices/placeholders
-
-- Sticky navigation and prominent Order Online, Reserve a Table, Call, and Get Directions actions
-
-- Elegant parallax storytelling and subtle background animations
-
-- Reduced-motion support, WCAG 2.2 AA accessibility, strong SEO, structured data, and fast loading
-
-- Reusable components, clean production-quality code, CMS-ready menu data, and complete responsive states
-
-- Realistic South Indian food imagery and polished micro-interactions
-
-Do not use generic restaurant templates or invent operational information. Use clearly marked placeholders for missing address, phone number, timings, prices, ordering links, social links, and reservation details. Implement the complete website, not just a landing-page mockup.
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/25acfbfa-7b48-4e7a-b76d-24e2f485d035).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Ensure you have Node.js (v18+) installed.
 
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+# Install dependencies
+npm install
+
+# Start local dev server
 npm run dev
+
+# Build for production
+npm run build
 ```
