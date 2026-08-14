@@ -1,0 +1,249 @@
+[
+  {
+    "id": "b-1",
+    "name": "Sambar Idly",
+    "category": "breakfast",
+    "subcategory": "Tiffin Classics",
+    "description": "Soft-steamed idlies soaked in hot drumstick sambar, finished with a spoon of ghee",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"],
+    "price": { "pattukkottai": 70, "trichy": 75 },
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "b-2",
+    "name": "Idly",
+    "category": "breakfast",
+    "subcategory": "Tiffin Classics",
+    "description": "Soft-steamed rice cakes served with sambar and coconut chutney",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-3",
+    "name": "Medhu Vadai",
+    "category": "breakfast",
+    "subcategory": "Tiffin Classics",
+    "description": "Crisp-shelled, fluffy-centered lentil doughnuts, fried to order",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-4",
+    "name": "Sambar Vadai",
+    "category": "breakfast",
+    "subcategory": "Tiffin Classics",
+    "description": "Medhu vadai soaked in hot sambar just before serving",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-5",
+    "name": "Ghee Pongal",
+    "category": "breakfast",
+    "subcategory": "One-Pot Specials",
+    "description": "Rice and moong dal slow-cooked with ghee, cracked pepper, and cumin",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"],
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "b-6",
+    "name": "Rava Kichadi",
+    "category": "breakfast",
+    "subcategory": "One-Pot Specials",
+    "description": "Semolina simmered with vegetables and mild spice, a lighter breakfast option",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-7",
+    "name": "Poori Masala",
+    "category": "breakfast",
+    "subcategory": "One-Pot Specials",
+    "description": "Puffed golden pooris with a lightly spiced potato masala",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-8",
+    "name": "Idiyappam with Kurma",
+    "category": "breakfast",
+    "subcategory": "One-Pot Specials",
+    "description": "Steamed rice-flour noodles paired with a coconut-based vegetable kurma",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-9",
+    "name": "Ghee Roast",
+    "category": "breakfast",
+    "subcategory": "Dosa Varieties",
+    "description": "Dosa roasted slow in ghee until deep gold and shatter-crisp at the edges",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"],
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "b-10",
+    "name": "Plain Dosa",
+    "category": "breakfast",
+    "subcategory": "Dosa Varieties",
+    "description": "The everyday classic, thin and evenly crisped",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-11",
+    "name": "Masala Dosa",
+    "category": "breakfast",
+    "subcategory": "Dosa Varieties",
+    "description": "Crisp dosa folded over a lightly spiced potato filling",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-12",
+    "name": "Onion Dosa",
+    "category": "breakfast",
+    "subcategory": "Dosa Varieties",
+    "description": "Dosa studded with finely chopped onion, crisped into the batter",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "b-13",
+    "name": "Filter Coffee",
+    "category": "breakfast",
+    "subcategory": "Beverages",
+    "description": "Decoction brewed slow, poured tumbler-to-davara for a proper head of froth",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"]
+  },
+
+  {
+    "id": "l-1",
+    "name": "Sai Karthik Special South Indian Meals",
+    "category": "lunch",
+    "subcategory": "Meals",
+    "description": "The full spread: rice, sambar, rasam, kootu, poriyal, curd, appalam, and payasam",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"],
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "l-2",
+    "name": "Mini Lunch",
+    "category": "lunch",
+    "subcategory": "Meals",
+    "description": "A smaller-portion version of the full meals, for a lighter midday plate",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "l-3",
+    "name": "Sambar Rice",
+    "category": "lunch",
+    "subcategory": "Variety Rice",
+    "description": "Rice folded through with sambar and a tempering of mustard and curry leaf",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "l-4",
+    "name": "Curd Rice",
+    "category": "lunch",
+    "subcategory": "Variety Rice",
+    "description": "Cooling curd rice, tempered, finished with a touch of ginger",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "l-5",
+    "name": "Veg Biryani / Pulao",
+    "category": "lunch",
+    "subcategory": "Biryani & Pulao",
+    "description": "Slow-layered rice with mixed vegetables and whole spice",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "l-6",
+    "name": "Paneer Butter Masala",
+    "category": "lunch",
+    "subcategory": "Curries & Gravies",
+    "description": "Paneer in a tomato-cashew gravy, mildly sweet and rich",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+
+  {
+    "id": "e-1",
+    "name": "Sambar Idly",
+    "category": "eveningTiffin",
+    "subcategory": "Tiffin Classics",
+    "description": "Soft-steamed idlies soaked in hot drumstick sambar",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "e-2",
+    "name": "Curd Vadai",
+    "category": "eveningTiffin",
+    "subcategory": "Tiffin Classics",
+    "description": "Medhu vadai soaked in seasoned curd, cooling and mild",
+    "dietary": ["veg"],
+    "signature": false,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "e-3",
+    "name": "Ghee Roast",
+    "category": "eveningTiffin",
+    "subcategory": "Dosa Varieties",
+    "description": "Dosa roasted slow in ghee until deep gold and shatter-crisp at the edges",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "e-4",
+    "name": "Idiyappam with Kurma",
+    "category": "eveningTiffin",
+    "subcategory": "Evening Specials",
+    "description": "Steamed rice-flour noodles with coconut-based vegetable kurma",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"]
+  },
+  {
+    "id": "e-5",
+    "name": "Filter Coffee",
+    "category": "eveningTiffin",
+    "subcategory": "Beverages",
+    "description": "Decoction brewed slow, poured tumbler-to-davara for a proper head of froth",
+    "dietary": ["veg"],
+    "signature": true,
+    "availableAt": ["both"]
+  }
+]

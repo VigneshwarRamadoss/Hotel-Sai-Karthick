@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "pattukkottai",
+    "name": "Pattukkottai",
+    "address": "123 Main Road, Pattukkottai, Tamil Nadu 614601",
+    "phone": "+91 98765 43210",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15682.11!2d79.31!3d10.43!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s!2s!5e0!3m2!1sen!2sin!4v1",
+    "coordinates": { "lat": 10.43, "lng": 79.31 },
+    "hours": {
+      "breakfast": { "open": "07:00", "close": "11:00" },
+      "lunch": { "open": "11:30", "close": "16:00" },
+      "eveningTiffin": { "open": "16:30", "close": "22:30" }
+    },
+    "seatingNotes": "Spacious family AC hall available. Comfortably seats large groups.",
+    "parkingNotes": "Ample two-wheeler parking; street parking for cars.",
+    "heroImage": "/placeholder.svg",
+    "galleryImages": ["/placeholder.svg", "/placeholder.svg"]
+  },
+  {
+    "slug": "trichy",
+    "name": "Trichy",
+    "address": "45 Cantonment, Trichy, Tamil Nadu 620001",
+    "phone": "+91 98765 43211",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15638.11!2d78.69!3d10.80!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s!2s!5e0!3m2!1sen!2sin!4v1",
+    "coordinates": { "lat": 10.80, "lng": 78.69 },
+    "hours": {
+      "breakfast": { "open": "06:30", "close": "11:00" },
+      "lunch": { "open": "11:30", "close": "15:30" },
+      "eveningTiffin": { "open": "16:00", "close": "22:30" }
+    },
+    "seatingNotes": "Modern interior with quick-service standing counters and relaxed AC dining.",
+    "parkingNotes": "Dedicated car parking available in the basement.",
+    "heroImage": "/placeholder.svg",
+    "galleryImages": ["/placeholder.svg", "/placeholder.svg"]
+  }
+]
