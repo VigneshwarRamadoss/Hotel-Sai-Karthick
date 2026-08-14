@@ -14,6 +14,8 @@ export default defineConfig({
     }),
     react(),
     tailwindcss(),
-    nitro(),
+    nitro({
+      preset: process.env.VERCEL ? "vercel" : undefined,
+    }),
   ],
 });
