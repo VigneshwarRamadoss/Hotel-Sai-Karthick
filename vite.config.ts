@@ -14,8 +14,6 @@ export default defineConfig({
     }),
     react(),
     tailwindcss(),
-    nitro({
-      preset: "cloudflare-module",
-    }),
+    nitro(),
   ],
 });
